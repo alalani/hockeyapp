@@ -12,3 +12,4 @@ import apps
 import cli
 import crashes
 import crashlog
+import crashgroups
